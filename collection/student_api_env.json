@@ -1,0 +1,69 @@
+{
+	"id": "9b1a48ae-d65a-4caa-a675-f6f63c4aafa4",
+	"name": "student env",
+	"values": [
+		{
+			"key": "id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "first_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "middle_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "last_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "date_of_birth",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "middleName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dateOfBirth",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://thetestingworldapi.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-03-17T10:56:55.053Z",
+	"_postman_exported_using": "Postman/9.15.0"
+}
